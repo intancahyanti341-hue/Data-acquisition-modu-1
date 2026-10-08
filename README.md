@@ -1,9 +1,9 @@
 # Data-acquisition-modul-1
 readme = """# Proyek Akuisisi dan Manajemen Data
 
-Mata kuliah : BIFP-243 Akuisisi dan Manajemen Data
-Nama / NIM  : ....................
-Tujuan      : ....................
+Mata kuliah : Data acquisition & management 
+Nama  : PUTU INTAN CAHYANTI PUTRI
+Nim    : 2501010046 (E)
 
 ## Struktur Folder
 
@@ -25,7 +25,4 @@ Tujuan      : ....................
 (ROOT / "README.md").write_text(readme, encoding="utf-8")
 
 print((ROOT / "README.md").read_text(encoding="utf-8"))
-Jangan lupa mengganti:
 
-Nama  : PUTU INTAN CAHYANTI PUTRI
-Nim   :2501010046 (E)
